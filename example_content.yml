@@ -8,3 +8,4 @@ allow_missing_files: true
 allow_adding_terms: true
 media_use: "'Thumbnail Image'|'Original File'"
 log_json: true
+secure_ssl_only: false
