@@ -2,9 +2,8 @@ task: create_terms
 host: "https://islandora.traefik.me/"
 username: admin
 password: password
-input_csv: geo_location1.csv
+input_csv: geo_location.csv
 input_dir: /workbench/islandora_workbench_demo_content/migration_from_production
 allow_adding_terms: true
 vocab_id: geo_location
-secondary_tasks: ['/workbench/islandora_workbench_demo_content/idc_geo_location2.yml','/workbench/islandora_workbench_demo_content/idc_geo_location3.yml']
 allow_missing_files: true
