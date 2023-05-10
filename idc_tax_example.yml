@@ -1,7 +1,8 @@
-task: create
+task: create_terms
 host: "https://islandora.traefik.me/"
 username: admin
 password: password
-input_csv: corporate_body1.csv
+input_csv: person2.csv
 input_dir: /workbench/islandora_workbench_demo_content/migration_from_production
-nodes_only: true
+vocab_id: person
+secondary_tasks: ['/workbench/islandora_workbench_demo_content/idc_person2.yml']

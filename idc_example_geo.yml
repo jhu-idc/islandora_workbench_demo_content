@@ -1,0 +1,5 @@
+task: export_csv
+host: "https://islandora.traefik.me/"
+vocab_id: geo_location
+export_csv_term_mode: name
+export_csv_file_path: /workbench/islandora_workbench_demo_content/migration_from_production/example_geo_location.csv
