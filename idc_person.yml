@@ -5,3 +5,4 @@ password: password
 input_csv: person.csv
 input_dir: /workbench/islandora_workbench_demo_content/migration_from_production
 vocab_id: person
+secure_ssl_only: false

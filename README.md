@@ -56,7 +56,12 @@ Here's a script that will do that but should be used with caution and not on a p
 git clone https://github.com/mjordan/islandora_workbench
 cd islandora_workbench
 git clone https://github.com/DonRichards/islandora_workbench_demo_content
-sed -i.bak "s/^nopassword.*/password\: $(cat ../secrets/live/DRUPAL_DEFAULT_ACCOUNT_PASSWORD) /g" islandora_workbench_demo_content/example_content.yml
+SITE="http://localhost:8000"
+# Reset the password in the config files
+find islandora_workbench/islandora_workbench_demo_content/ -type f -name '*.yml' -exec sed -i.bak 's/^nopassword.*/password\: $(shell cat secrets/live/DRUPAL_DEFAULT_ACCOUNT_PASSWORD) /g' {} +
+# Set the domain in the config files
+find islandora_workbench/islandora_workbench_demo_content/ -type f -name '*.yml' -exec sed -i.bak '/^host:/s/.*/host: "$(subst /,\/,$(subst .,\.,${SITE}))\/"/' {} +
+
 sed -i.bak "s|^input_dir.*|input_dir\: /workbench/islandora_workbench_demo_content/demo_content_files|g" islandora_workbench_demo_content/example_content.yml
 docker build -t workbench-docker .
 docker run -it --rm --network="host" -v $(pwd):/workbench --name my-running-workbench workbench-docker bash -lc "cd /workbench ; python setup.py install ; ./workbench --config /workbench/islandora_workbench_demo_content/example_content.yml"

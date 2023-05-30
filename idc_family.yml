@@ -5,3 +5,4 @@ password: password
 input_csv: family.csv
 input_dir: /workbench/islandora_workbench_demo_content/migration_from_production
 vocab_id: family
+secure_ssl_only: false

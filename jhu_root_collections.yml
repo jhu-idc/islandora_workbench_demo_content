@@ -12,3 +12,4 @@ content_type: collection_object
 list_missing_drupal_fields: true
 timestamp_rollback: true
 clean_csv_values_skip: ["smart_quotes", "outside_spaces"]
+secure_ssl_only: false

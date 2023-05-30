@@ -7,3 +7,4 @@ input_dir: /workbench/islandora_workbench_demo_content/migration_from_production
 allow_adding_terms: true
 vocab_id: copyright_and_use
 allow_missing_files: true
+secure_ssl_only: false

@@ -1,0 +1,12 @@
+task: create
+host: "https://islandora.traefik.me/"
+username: admin
+password: password
+input_dir: /workbench/islandora_workbench_demo_content/migration_from_production
+input_csv: islandora_objects.csv
+allow_missing_files: true
+allow_adding_terms: true
+media_use: "'Thumbnail Image'|'Original File'"
+log_json: true
+secure_ssl_only: false
+ignore_csv_columns: ['url', 'field_access_terms', 'field_access_rights']
