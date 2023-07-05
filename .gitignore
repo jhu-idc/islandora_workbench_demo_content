@@ -12,3 +12,8 @@ demo_content_files/.~lock.jhu_root_collections.csv#
 demo_content_files/jhu_root_collections.csv.preprocessed
 
 demo_content_files/rollback*.csv
+.venv/
+
+*.csv#
+
+cookies.txt

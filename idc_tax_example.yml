@@ -6,3 +6,4 @@ input_csv: person2.csv
 input_dir: /workbench/islandora_workbench_demo_content/migration_from_production
 vocab_id: person
 secondary_tasks: ['/workbench/islandora_workbench_demo_content/idc_person2.yml']
+secure_ssl_only: false
