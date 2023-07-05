@@ -1,6 +1,6 @@
 task: create
-host: "https://idc-test.library.jhu.edu/"
-username: admin
+host: "https://islandora.traefik.me/"
+username: admin 
 password: password
 input_dir: /workbench/islandora_workbench_demo_content/demo_content_files
 input_csv: jhu_root_collections.csv

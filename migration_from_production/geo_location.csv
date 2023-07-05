@@ -1,28 +1,22 @@
 term_name,description,field_authority_link,field_geo_alt_name,field_unique_id
-Bangladesh,,fast%%http://id.worldcat.org/fast/1213724|viaf%%http://viaf.org/viaf/153614928,,9fcbb19d-b2ac-476b-bb14-d0438e3f674c
-California--Daly City,,fast%%http://id.worldcat.org/fast/1234629|geonames%%http://sws.geonames.org/5341430|viaf%%http://viaf.org/viaf/128861069,,ff40822a-bf7a-4be5-91be-72c33336acb3
-California--San Francisco,,fast%%http://id.worldcat.org/fast/1204481|viaf%%http://viaf.org/viaf/143700861|geonames%%http://sws.geonames.org/5391959/,,d6e65894-2770-4e94-9822-fbcf7662d53d
-China--Taishan Shi (Guangdong Sheng),,fast%%http://id.worldcat.org/fast/1327238|viaf%%http://viaf.org/viaf/125824140|geonames%%http://sws.geonames.org/1793545/,,1902830c-6ef6-49e5-a5f4-777cd60ed978
-Cuba--Havana,,http://sws.geonames.org/3553478/geonames%http://id.worldcat.org/fast/1205198|viaf%%http://viaf.org/viaf/129224713,,0b924a4f-b7e3-4ccc-8e32-b7d7ad0f2df3
-France--Paris,,http://sws.geonames.org/2988507/|viaf%%http://viaf.org/viaf/158822968%http://id.worldcat.org/fast/1205283,,8975ddb1-5005-4e82-b987-5b87ef267f17
-Laos,,%%|viaf%%http://viaf.org/viaf/122772641%http://id.worldcat.org/fast/1210322|geonames%%http://sws.geonames.org/1655842/,,493bd83d-e411-49a2-ae9f-e474ffd75b5a
-New York (State),,fast%%http://id.worldcat.org/fast/1210280|viaf%%http://viaf.org/viaf/146785329|geonames%%http://sws.geonames.org/5128638/,,2eef6d70-3b40-4bc8-be41-463776f64ccb
-New York (State)--New York--Queens,,http://sws.geonames.org/5133266|viaf%%http://viaf.org/viaf/135462352%http://id.worldcat.org/fast/1313007,,4d65315c-2934-442a-aa2a-a7342dfd721e
-Nigeria,,fast%%http://id.worldcat.org/fast/1205229|viaf%%http://viaf.org/viaf/130803976|geonames%%http://sws.geonames.org/2328926/,,1d7a5f3d-8a07-4cf7-8a92-42933e2b55b0
-Texas,,fast%%http://id.worldcat.org/fast/1210336|viaf%%http://viaf.org/viaf/152620751|geonames%%http://sws.geonames.org/4736286/,,e36ecfd7-baf5-4c3d-9707-c48fd458f15a
 Alaska--Glacier Bay National Park and Preserve,,fast%%http://id.worldcat.org/fast/1260188|geonames%%http://sws.geonames.org/5846642/,,5071db88-d7f8-4ea6-bf33-3e9cf106e915
 Alberta--Edmonton,,fast%%http://id.worldcat.org/fast/1204309|geonames%%http://sws.geonames.org/5946768/|viaf%%http://viaf.org/viaf/150041089,,0ffeee77-fd34-44ac-a0e5-55eac83228fa
 Appalachian Region,,fast%%http://id.worldcat.org/fast/1240092,,2864f888-5c33-4240-942b-414ee414d42a
 Arizona--Grand Canyon,,fast%%http://id.worldcat.org/fast/1240455,,085dd25d-1844-4db8-b5e0-e5d36f638d62
 Armenia,,fast%%http://id.worldcat.org/fast/1206470|geonames%%http://sws.geonames.org/174982/|viaf%%http://viaf.org/viaf/136032216,,414a938b-afbf-49e0-a84f-c7f1a3ec608d
 Atlantic Ocean--Chesapeake Bay,,fast%%http://id.worldcat.org/fast/1310474|geonames%%http://sws.geonames.org/4351177/,,a26295c0-25a0-441a-90e2-3c2a39ed9d54
+Bangladesh,,fast%%http://id.worldcat.org/fast/1213724|viaf%%http://viaf.org/viaf/153614928,,9fcbb19d-b2ac-476b-bb14-d0438e3f674c
 Brazil--Marajó Island,,fast%%http://id.worldcat.org/fast/1242920|geonames%%http://sws.geonames.org/3395453,,b3c6d52b-f4c3-4e96-b05d-89e1c3a88750
 California,,fast%%http://id.worldcat.org/fast/1204928|geonames%%http://sws.geonames.org/5332921/|viaf%%http://viaf.org/viaf/147680367,,123c9072-b5ce-46bb-a5e5-d0374af59391
+California--Daly City,,fast%%http://id.worldcat.org/fast/1234629|geonames%%http://sws.geonames.org/5341430|viaf%%http://viaf.org/viaf/128861069,,ff40822a-bf7a-4be5-91be-72c33336acb3
 California--Fresno,,fast%%http://id.worldcat.org/fast/1207374|geonames%%http://sws.geonames.org/5350937/,,37f01974-f14a-404b-91e5-972ce4591151
 California--Los Angeles,,fast%%http://id.worldcat.org/fast/1204540|geonames%%http://sws.geonames.org/5368361/|viaf%%http://viaf.org/viaf/124053622,,3a0b2f12-53fd-4ed8-94bb-5ac8004f5adb
 California--Paramount,,fast%%http://id.worldcat.org/fast/1219047|geonames%%http://sws.geonames.org/5381110/|viaf%%http://viaf.org/viaf/146599632,,c2084852-bf86-4a43-a8e1-2e7880940290
+California--San Francisco,,fast%%http://id.worldcat.org/fast/1204481|viaf%%http://viaf.org/viaf/143700861|geonames%%http://sws.geonames.org/5391959/,,d6e65894-2770-4e94-9822-fbcf7662d53d
 California--Yosemite National Park,,fast%%http://id.worldcat.org/fast/1308988|geonames%%http://sws.geonames.org/5410952,,d72e7c18-a3d7-4627-9aca-a79e1887437f
+China--Taishan Shi (Guangdong Sheng),,fast%%http://id.worldcat.org/fast/1327238|viaf%%http://viaf.org/viaf/125824140|geonames%%http://sws.geonames.org/1793545/,,1902830c-6ef6-49e5-a5f4-777cd60ed978
 Cuba,,fast%%http://id.worldcat.org/fast/1205805|geonames%%http://sws.geonames.org/3562984/|viaf%%http://viaf.org/viaf/127245163,,93c708f0-5457-48e0-b612-e31ad260fd5f
+Cuba--Havana,,http://sws.geonames.org/3553478/geonames%http://id.worldcat.org/fast/1205198|viaf%%http://viaf.org/viaf/129224713,,0b924a4f-b7e3-4ccc-8e32-b7d7ad0f2df3
 Deep space--Andromeda Galaxy,,fast%%http://id.worldcat.org/fast/1239892,,36efc75e-fb24-476b-89a3-15f89dddd825
 Delaware,,fast%%http://id.worldcat.org/fast/1204929|geonames%%http://sws.geonames.org/4142224/|viaf%%http://viaf.org/viaf/235924579,,18c0fcaa-051d-47b6-b670-a8295d896163
 Earth (Planet),,fast%%http://id.worldcat.org/fast/1860481|geonames%%http://sws.geonames.org/6295630,,ccf10e34-ee8d-49f8-be2f-75b2c0185f19
@@ -36,6 +30,7 @@ Florida--Hialeah,,fast%%http://id.worldcat.org/fast/1215436|geonames%%http://sws
 Florida--Miami,,fast%%http://id.worldcat.org/fast/1213727|geonames%%http://sws.geonames.org/4164138/|viaf%%http://viaf.org/viaf/153063179,,f0917c04-cfac-48b9-8865-80cb6a8669bb
 Florida--Naples,,fast%%http://id.worldcat.org/fast/1213255|geonames%%http://sws.geonames.org/4165565/|viaf%%http://viaf.org/viaf/140727271,,e68b2156-2332-4101-9e63-5f1f77d34d6d
 Florida--Parkland,,fast%%http://id.worldcat.org/fast/1267412|geonames%%http://sws.geonames.org/4167829/|viaf%%http://viaf.org/viaf/263995818,,acd9cbfe-2f51-4c99-8d89-c9b732412f5d
+France--Paris,,http://sws.geonames.org/2988507/|viaf%%http://viaf.org/viaf/158822968%http://id.worldcat.org/fast/1205283,,8975ddb1-5005-4e82-b987-5b87ef267f17
 Germany,,fast%%http://id.worldcat.org/fast/1210272|geonames%%http://sws.geonames.org/2921044/,,a6d4fcfc-52a7-4769-bb34-f24218ca0e88
 Great Britain,,fast%%http://id.worldcat.org/fast/1204623|geonames%%http://sws.geonames.org/6618604,,3b693bb1-9441-44cb-b2d0-f99b609c90d7
 Greece,,fast%%http://id.worldcat.org/fast/1208380|geonames%%http://sws.geonames.org/390903/,,5441e187-831f-4d01-b0c9-4a931707e159
@@ -52,6 +47,7 @@ Japan--Hiroshima-shi,,fast%%http://id.worldcat.org/fast/1209723|geonames%%http:/
 Japan--Nagasaki-shi,,fast%%http://id.worldcat.org/fast/1211968|geonames%%http://sws.geonames.org/1856152/|viaf%%http://viaf.org/viaf/251144404,,6e8e35cb-c821-4d09-bf55-74b84fdf4f7f
 Jupiter (Planet),,fast%%http://id.worldcat.org/fast/1244812,,67a47c41-35fc-4389-bd87-a91cf734d17a
 Kentucky--Mammoth Cave,,fast%%http://id.worldcat.org/fast/1242754|geonames%%http://sws.geonames.org/4299728,,a05492de-84ec-4243-a6b3-f80401598926
+Laos,,viaf%%http://viaf.org/viaf/122772641%http://id.worldcat.org/fast/1210322|geonames%%http://sws.geonames.org/1655842/,,493bd83d-e411-49a2-ae9f-e474ffd75b5a
 Latin America,,fast%%http://id.worldcat.org/fast/1245945,,e3de0fc4-1e5f-4359-be77-520658021954
 Maine--North Haven,,fast%%http://id.worldcat.org/fast/1249945|geonames%%http://sws.geonames.org/4973580/,,baf86ca2-6e2c-4a47-8e51-5657424b263d
 Mars (Planet),,fast%%http://id.worldcat.org/fast/1243063,,fbc005ea-21ec-46c9-a9ce-9f8c055578f7
@@ -84,9 +80,12 @@ New Brunswick--Saint John,,fast%%http://id.worldcat.org/fast/1233595|geonames%%h
 New Hampshire,,fast%%http://id.worldcat.org/fast/1204318|geonames%%http://sws.geonames.org/5164292/|viaf%%http://viaf.org/viaf/155922170,,78af5558-038d-47b3-b346-11807c7a523f
 New Jersey,,fast%%http://id.worldcat.org/fast/1208379|geonames%%http://sws.geonames.org/5101760,,b38c750f-5887-4970-a79b-00a6289add2e
 New Mexico--Carlsbad Caverns National Park,,fast%%http://id.worldcat.org/fast/1300329|geonames%%http://sws.geonames.org/5460461,,de9bc8b1-4da3-46d9-9dac-baa941d10ec0
+New York (State),,fast%%http://id.worldcat.org/fast/1210280|viaf%%http://viaf.org/viaf/146785329|geonames%%http://sws.geonames.org/5128638/,,2eef6d70-3b40-4bc8-be41-463776f64ccb
 New York (State)--Long Island,,fast%%http://id.worldcat.org/fast/1241714|geonames%%http://sws.geonames.org/5125123/|viaf%%http://viaf.org/viaf/241562607,,a0e38c3c-2822-4259-8526-d347161e69b2
 New York (State)--New York,,fast%%http://id.worldcat.org/fast/1204333|geonames%%http://sws.geonames.org/5128581/|viaf%%http://viaf.org/viaf/266415900,,129ac338-a2ab-4898-9287-faf6aa164ec6
+New York (State)--New York--Queens,,http://sws.geonames.org/5133266|viaf%%http://viaf.org/viaf/135462352%http://id.worldcat.org/fast/1313007,,4d65315c-2934-442a-aa2a-a7342dfd721e
 New York (State)--New York--Times Square,,fast%%http://id.worldcat.org/fast/1316237|geonames%%http://sws.geonames.org/5141023/,,659896f9-1a55-485e-8a37-df3f19e36f87
+Nigeria,,fast%%http://id.worldcat.org/fast/1205229|viaf%%http://viaf.org/viaf/130803976|geonames%%http://sws.geonames.org/2328926/,,1d7a5f3d-8a07-4cf7-8a92-42933e2b55b0
 North America,,fast%%http://id.worldcat.org/fast/1242475|geonames%%http://sws.geonames.org/6255149/,,61a07263-032b-48d4-bf25-53ce4e3a4b75
 North America--Colorado River Watershed,,fast%%http://id.worldcat.org/fast/1264747,,ebe0aa79-8d5a-41f2-9adf-cb974b19da35
 North America--Mexican-American Border Region,,fast%%http://id.worldcat.org/fast/1239966|viaf%%http://viaf.org/viaf/315125105,,ce4bc933-152b-4ace-8140-019579afd788
@@ -103,6 +102,7 @@ Spain,,fast%%http://id.worldcat.org/fast/1204303|geonames%%http://sws.geonames.o
 Syria--Dura-Europos (Extinct city),,fast%%http://id.worldcat.org/fast/1896912,,da75011b-1c36-45f1-879c-5256790b671b
 Taiwan,,fast%%http://id.worldcat.org/fast/1207854|geonames%%http://sws.geonames.org/1668284/|viaf%%http://viaf.org/viaf/128920774,,0f055867-4f44-41d2-aaab-cb4a368eb3cc
 Tanzania,,fast%%http://id.worldcat.org/fast/1210143|geonames%%http://sws.geonames.org/149590/|viaf%%http://viaf.org/viaf/131265957,,4c79e381-c584-4420-a316-00d142502813
+Texas,,fast%%http://id.worldcat.org/fast/1210336|viaf%%http://viaf.org/viaf/152620751|geonames%%http://sws.geonames.org/4736286/,,e36ecfd7-baf5-4c3d-9707-c48fd458f15a
 Texas--McAllen,,fast%%http://id.worldcat.org/fast/1221785|geonames%%http://sws.geonames.org/4709796/|viaf%%http://viaf.org/viaf/150122384,,8499d316-a51c-439f-99c0-eb851517ee57
 Tropics,,fast%%http://id.worldcat.org/fast/1240674,,29f9b816-5678-4059-b774-a82c88ee7156
 Uganda,,fast%%http://id.worldcat.org/fast/1210282|geonames%%http://sws.geonames.org/226074/|viaf%%http://viaf.org/viaf/157051895,,efadfa32-21aa-45b3-a6d3-d88b03a337be
