@@ -1,0 +1,7 @@
+task: export_csv
+host: "https://islandora.traefik.me/"
+username: admin
+password: password
+content_type: islandora_object
+input_csv: nodes_to_export.csv
+export_csv_file_path: output.csv

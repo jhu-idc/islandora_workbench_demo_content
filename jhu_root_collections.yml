@@ -1,6 +1,6 @@
 task: create
 host: "https://islandora.traefik.me/"
-username: admin 
+username: admin
 password: password
 input_dir: /workbench/islandora_workbench_demo_content/demo_content_files
 input_csv: jhu_root_collections.csv
