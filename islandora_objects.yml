@@ -9,5 +9,5 @@ allow_adding_terms: true
 media_use: "'Thumbnail Image'|'Original File'"
 log_json: true
 secure_ssl_only: false
-ignore_csv_columns: ['field_access_terms', 'uuid', 'url']
+ignore_csv_columns: ['field_access_terms', 'uuid', 'url', 'field_date_created']
 # field_access_rights needs to be renamed to "field_rights"
