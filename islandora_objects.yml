@@ -11,4 +11,4 @@ log_json: true
 secure_ssl_only: false
 ignore_csv_columns: ['field_access_terms', 'uuid', 'url', 'field_date_created']
 additional_files:
- - Intermediate File: 15
+ - intermediate_file: 15
